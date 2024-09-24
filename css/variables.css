@@ -1,0 +1,31 @@
+:root{
+  /* light theme */
+  --main-gb-color-light: #3498db;
+  --main-text-color-light: #FFF;
+  --padding-size-light:1px;
+  --header-background-color-light: #2c3e50;
+  --header-text-color-light: #FFF;
+  --header-text-hover-color-light: #3498db;
+  --header-background-hover-color-light: #2c3e50;
+  --header-text-hover-color-light: #FFF;
+  --header-box-border-color-light: #FFF;
+
+
+  /*dark theme */
+  --main-gb-color-dark: #010508;
+  --main-text-color-dark: #FFF;
+  --padding-size-dark:1px;
+  --header-background-color-dark: #2c3e50;
+  --header-text-color-dark: #FFF;
+  --header-text-hover-color-dark: #3498db;
+  --header-background-hover-color-dark: #FFF;
+  --header-text-hover-color-dark: ##2c3e50;
+  --header-box-border-color-dark: #FFF;
+
+}
+
+/* **
+
+ Templates 
+  use theme variables to set colors, fonts, etc.
+*/

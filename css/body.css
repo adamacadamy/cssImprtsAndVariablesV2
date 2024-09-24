@@ -1,0 +1,19 @@
+@import url('variables.css');
+
+body{
+    background-color: var( --main-gb-color-light);
+    color: var(--main-text-color-light); /*  #FFF */
+    padding: var(--padding-size-light); /* 1px */
+}
+.content{
+    display: block;
+    text-align: center;
+}
+@media (min-width: 768px){
+    body{
+        background-color: var( --main-gb-color-dark);
+        color: var(--main-text-color-dark); /*  #FFF */
+        padding: var(--padding-size-dark); /* 1px */
+    }
+    
+}
